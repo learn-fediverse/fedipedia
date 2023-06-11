@@ -1,0 +1,54 @@
+---
+sidebar_position: 2
+---
+
+# Following People
+
+Like Twitter and Facebook, you can follow people on the Fediverse.
+
+But but what's even better than Twitter and Facebook, is that you can follow anyone from any site that is on the Fediverse, without having to sign up for the server.
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import eugenRochkoProfileImage from './eugenrochko.png';
+import followEugenRochkoVideo from './followeugenrochko.mp4';
+import followLeah from './followleah.mp4';
+
+<Tabs>
+  <TabItem value="mastodon" label="Mastodon" default>
+		<div>
+			<h3>Following accounts on same server</h3>
+			<p>
+				Let's say you are on <code>mastodon.social</code> for your Fediverse account. You can follow someone just by clicking the follow button.
+			</p>
+			<p>
+				Let's take <a href="https://mastodon.social/@Gargron">Eugen Rochko (@Gargron@mastodon.social)</a>, for example, the founder of Mastodon.
+			</p>
+			<p>
+				His account is on mastodon.social, and so is our example account.
+			</p>
+			<p>
+				I could simply go to https://mastodon.social/@Gargron, to follow him.
+			</p>
+			<p>
+			<video play controls playsinline src={followEugenRochkoVideo} style={{ maxWidth: 520 }} />
+			</p>
+			<h3>Following accounts on different server</h3>
+			<p>
+				Let's say you are on <code>mastodon.social</code> but you happened to have stumbled upon the account of the photographer named <a href="https://chaos.social/@leah">Leah (@leah@chaos.social)</a>. Clicking follow will, however, prompt you to create an account.
+			</p>
+			<p>
+				Fortunately, you don't need to create any new accounts, whatsoever!
+			</p>
+			<p>
+				You would copy the link from either the address bar, or the link that they prompt you to copy, and paste it into the search bar of the server that you are signed up for.
+			</p>
+			<p>
+			<video play controls playsinline src={followLeah} style={{ maxWidth: 520 }} />
+			</p>
+		</div>
+	</TabItem>
+  <TabItem value="calckey" label="Calckey">
+    This is an orange 🍊
+  </TabItem>
+</Tabs>
