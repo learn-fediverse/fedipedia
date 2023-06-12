@@ -8,7 +8,7 @@ Although each software does its best to implement the expected Fediverse protoco
 
 Each of software have features that others don't, and intentionally omit features that others do implement.
 
-Case in point: while [Mastodon](/docs/software/mastodon) enables you to post text content, [Pixelfed](/docs/software/pixelfed) *only* allows you to post photos. The reason being is that Pixelfed's existence is meant to target the specific audience of people who only intend to post and view photos to and from other members of the Fediverse.
+Case in point: while [Mastodon](/docs/software/mastodon) enables you to post text content, [Pixelfed](/docs/software/pixelfed) *only* allows you to post photos. The reason being is that Pixelfed's intended audience is those who only intend to post and view photos to and from other members of the Fediverse.
 
 :::tip
 
