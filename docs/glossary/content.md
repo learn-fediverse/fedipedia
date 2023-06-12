@@ -9,4 +9,4 @@ Content can represent anything.
 - audio
 - video
 
-Contents can also be a reply to another content.
+Content can also be a reply to another content.
