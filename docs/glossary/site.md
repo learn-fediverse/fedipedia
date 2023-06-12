@@ -6,6 +6,6 @@ While a server represents a physical (or virtual) machine hosting a [software](/
 
 There are sites dedicated to users talking about data visualization (e.g. [vis.social](https://vis.social)), others are tech related (e.g. [techhub.social](https://techhub.social)).
 
-That said, because this the distinction between "server" and "site" are so nitpicky, most people use the term "site" and "server" interchangeably.
+That said, because of the distinction between "server" and "site" are so nitpicky, most people use the term "site" and "server" interchangeably.
 
 <!-- TODO: open up with teaching people to sign up for different servers -->
