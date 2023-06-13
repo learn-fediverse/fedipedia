@@ -56,6 +56,7 @@ const config = {
 		],
 	],
 
+	themes: ["docusaurus-theme-search-typesense"],
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
@@ -121,6 +122,29 @@ const config = {
 			prism: {
 				theme: lightCodeTheme,
 				darkTheme: darkCodeTheme,
+			},
+
+			typesense: {
+				// Replace this with the name of your index/collection.
+				// It should match the "index_name" entry in the scraper's "config.json" file.
+				typesenseCollectionName: "fedipedia.wiki",
+
+				typesenseServerConfig: {
+					nodes: [
+						{
+							host: "typesense.fedipedia.wiki",
+							port: 443,
+							protocol: "https",
+						},
+					],
+					apiKey: "V1u8hM7l1Qnh0OuNQjLWmlidjKbqokMD",
+				},
+
+				// Optional: Typesense search parameters: https://typesense.org/docs/0.24.0/api/search.html#search-parameters
+				typesenseSearchParameters: {},
+
+				// Optional
+				contextualSearch: true,
 			},
 		}),
 };

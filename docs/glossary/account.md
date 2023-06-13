@@ -1,6 +1,6 @@
 # Account
 
-An account on the [Fediverse](/docs/glossary/fediverse) is an entity that posts [content](/docs/glossary/content), [follows](/docs/glossary/follow) accounts, and have other accounts follow them.
+An account—as far as [social networking](/docs/glossary/social-network) is concerned—is an entity that posts [content](/docs/glossary/content), [follows](/docs/glossary/follow) accounts, and have other accounts follow them.
 
 :::tip New to the Fediverse?
 
