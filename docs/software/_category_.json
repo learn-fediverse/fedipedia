@@ -1,5 +1,6 @@
 {
 	"label": "Software",
+	"position": 2,
 	"link": {
 		"type": "doc",
 		"id": "software"

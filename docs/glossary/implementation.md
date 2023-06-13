@@ -1,6 +1,6 @@
 # Implementation
 
-An implementation is code, program, or [software](/docs/glossary/software) that acts in accordance to a [specification](/docs/glossary/specification).
+An implementation is code, program, or [software](/docs/glossary/software) that acts in accordance to a [specification](/docs/glossary/specifications).
 
 For example, [Pixelfed](/docs/software/pixelfed) and [Mastdon](/docs/software/mastodon) are implementations of several specifications that enables it to function properly within a large subset of the [Fediverse](/docs/glossary/fediverse).
 
