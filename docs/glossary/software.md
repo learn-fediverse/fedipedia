@@ -10,12 +10,12 @@ Although each software does its best to implement the expected Fediverse protoco
 
 Each of software have features that others don't, and intentionally omit features that others do implement.
 
-Case in point: while [Mastodon](/docs/software/mastodon) enables you to post text content, [Pixelfed](/docs/software/pixelfed) *only* allows you to post photos. The reason being is that Pixelfed's intended audience is those who only intend to post and view photos to and from other members of the Fediverse.
+Case in point: while [Mastodon](/docs/software/server/mastodon) enables you to post text content, [Pixelfed](/docs/software/server/pixelfed) *only* allows you to post photos. The reason being is that Pixelfed's intended audience is those who only intend to post and view photos to and from other members of the Fediverse.
 
-:::tip
+<!--:::tip
 
 You can view the list of many available software for you to use, [here](/docs/software).
 
-:::
+:::-->
 
 [^1]: Instructions don't need to exclusively run on a computer. Other software can also be programmed to take in instructions. An example would be web browsers; they are programmed to take in instructions in the form either [JavaScript](https://en.wikipedia.org/wiki/JavaScript) or [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly). Another example of software that is capable of taking in instructions are [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine), that are capable of emulating a [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) and peripherals.
