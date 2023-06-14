@@ -9,6 +9,10 @@ With the new API pricing [announced](https://www.redditinc.com/blog/2023apiupdat
 
 As reports of an exodus from Reddit unfolds, the software [^2], [Lemmy](https://join-lemmy.org/), has been gaining popularity. In fact at the time of writing this, Lemmy has grown to become the [fifth most popular software](https://atomicpoet.org/notice/AWen4ZNYsSXqWZE9q4) on the Fediverse[^3].
 
+import lemmyMostPopularImage from './lemmy-most-popular.png';
+
+<img src={lemmyMostPopularImage} alt="Lemmy is the fifth largest Fediverse software" style={{ maxWidth: 350 }} />
+
 ## What is Lemmy?
 
 According to the official Lemmy website:
@@ -17,20 +21,29 @@ According to the official Lemmy website:
 
 In other words, Lemmy brings Reddit-like features to the Fediverse.
 
-With support for [WebFinger](https://webfinger.net/) and [ActivityPub](https://www.w3.org/TR/activitypub/), users of Mastodon, Calckey, Pleroma, or any other ActivityPub and WebFinger software can easily follow Lemmy users.
+With support for [WebFinger](https://webfinger.net/) and [ActivityPub](https://www.w3.org/TR/activitypub/), users of Mastodon, Calckey, Friendica, or any other ActivityPub and WebFinger software can easily follow Lemmy users.
 
 A feature that Lemmy has, that Mastodon does not, are "groups".
 
 ## Joining groups from platforms that don't support groups
 
-Not on Lemmy, and hesitant to join it, but would still want to join a group?
+You haven't joined Lemmy yet, and hesitant to join it, but would still want to join a group?
 
-There's good news.
+There's good news. A group in Lemmy is just another ActivityPub actor.
 
-Mastodon, Calckey, etc. are all implementations of ActivityPub, and because ActivityPub has the concept of an actor, and actors can follow other actors, a user can follow a group!
+Mastodon, Calckey, etc. are all implementations of ActivityPub. ActivityPub has the concept of an actor. Both users and groups are actors, and because actors can follow other actors, this means a user can follow a group!
 
-Following a group has a very similar procedure to <a href="/docs/getting-started/following-people">following a user</a>.
+Following a group has a very similar procedure to <a href="/docs/getting-started/following-people" target="_blank">following a user</a>.
+
+When visiting a Lemmy Group page, copy the adress from the address bar, and paste it into the search bar of your Fediverse software. You should see the group show up as an entity that you can follow.
+
+Congratulations, you have now joined a group!
+
+Once joined, you should see posts being reposted by the group that you "followed" [^1] onto your timeline.
+
+To post into the group, simply tag 
 
 [^1]: [Client](/docs/glossary/client)
 [^2]: [Software](/docs/glossary/software)
 [^3]: [Fediverse](/docs/glossary/fediverse)
+[^4]: [Reposting, also known as "boosting"](/docs/glossary/boost)
