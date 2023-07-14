@@ -1,6 +1,6 @@
 # Boost
 
-To boost a post means to "repost" a post onto the timeline of your followers.
+To boost a [post](/docs/glossary/post) means to "repost" a post onto the [timeline](/docs/glossary/timeline) of your followers.
 
 Because "boosting" literally means "reposting", those two words are used interchangeably.
 

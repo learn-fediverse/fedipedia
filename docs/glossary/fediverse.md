@@ -1,7 +1,7 @@
 # Fediverse
 
-The Fediverse is a collection of smaller [social networks](/docs/glossary/social-network) that are connected to each other.
+The Fediverse is a collection of [social networks](/docs/glossary/social-network#target=_blank) that connect to each other.
 
 [Accounts](/docs/glossary/account) from one smaller social network (specifically in a [server](/docs/glossary/server)) is capable of interacting with an account from another totally distinct social network.
 
-The concept that one [service](/docs/glossary/service) (such as a social networking site) is capable of interacting with other service that serve similar intents is known as [federation](/docs/glossary/federation). Hence the name "fediverse", which is a portmanteau of the words "federated" and "universe", thus "federated universe", or more compactly "fediverse".
+The concept that one [service](/docs/glossary/service) (such as a social networking site) is capable of interacting with other services that serve similar intents is known as [federation](/docs/glossary/federation). Hence the name "fediverse", which is a portmanteau of the words "federated" and "universe", thus "federated universe", or more compactly "fediverse".

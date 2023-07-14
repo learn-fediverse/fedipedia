@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const extLink = require("./src/remark/extlink");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -42,12 +43,14 @@ const config = {
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					editUrl: "https://github.com/learn-fediverse/fedipedia/tree/main/",
+					rehypePlugins: [extLink],
 				},
 				blog: {
 					showReadingTime: true,
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					editUrl: "https://github.com/learn-fediverse/fedipedia/tree/main/",
+					rehypePlugins: [extLink],
 				},
 				theme: {
 					customCss: require.resolve("./src/css/custom.css"),
