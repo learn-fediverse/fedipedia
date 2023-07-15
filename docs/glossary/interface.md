@@ -1,6 +1,6 @@
 # Interface
 
-An interface refers to a point of interaction or communication between two or more systems, entities, or components. It defines how different parts of a system or different systems can connect and exchange information or perform actions.
+An interface refers to a point of [interaction](/docs/glossary/interaction) or [communication](/docs/glossary/communication) between two or more [systems](/docs/glossary/system), [entities](/docs/glossary/entity), or components. It defines how different parts of a system or different systems can connect and exchange information or perform actions.
 
 Interfaces serve as a boundary between different parts of a system, allowing them to work together without needing to know the internal details of each other. They provide a standardized way for different components or systems to communicate, enabling interoperability, modularity, and abstraction.
 
