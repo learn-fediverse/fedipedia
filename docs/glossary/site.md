@@ -1,6 +1,8 @@
 # Site
 
-A site is almost synonymous with "[server](/docs/glossary/server)", with one caveat being that a site represents *intent*.
+A site is any [service](/docs/glossary/service) that is accessible via a [web browser](/docs/software/misc/web-browser)
+
+In the context of the [Fediverse](/docs/glossary/fediverse), a site is almost synonymous with "[server](/docs/glossary/server)", with one caveat being that a site represents *intent*.
 
 While a server represents a physical (or virtual) machine hosting a [software](/docs/glossary/software) that is managing [Fediverse](/docs/glossary/fediverse) [accounts](/docs/glossary/account), a site represents what most accounts on that server/site is mostly intending to do on there.
 
