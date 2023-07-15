@@ -1,13 +1,13 @@
 ---
-slug: why-is-lemmy-gaining-popularity
-title: What is Lemmy, and why is it gaining popularity?
+slug: why-is-lemmy-kbin-gaining-popularity
+title: What are Lemmy and /kbin, and why are they gaining popularity?
 authors: [salrahman]
 tags: [lemmy, reddit, groups]
 ---
 
-With the new API pricing [announced](https://www.redditinc.com/blog/2023apiupdates) by [Reddit](https://en.wikipedia.org/w/index.php?title=Reddit&oldid=1160000942), apps like [Apollo](<https://en.wikipedia.org/w/index.php?title=Apollo_(app)&oldid=1159994335>)—a third-party Reddit [client](/docs/glossary/client#target=_blank)—has now been slated to shut down on June 30th, due the financial infeasibility of allowing [users](/docs/glossary/user) to continue using it. Users and moderators—who are often managing communities for free—have gone on a site-wide protest against changes introduced, among other reasons.
+With the new API pricing [announced](https://www.redditinc.com/blog/2023apiupdates) by [Reddit](https://en.wikipedia.org/w/index.php?title=Reddit&oldid=1160000942#target=_blank), apps like [Apollo](<https://en.wikipedia.org/w/index.php?title=Apollo_(app)&oldid=1159994335#target=_blank>)—a third-party Reddit [client](/docs/glossary/client#target=_blank)—has now been slated to shut down on June 30th, due the financial infeasibility of allowing [users](/docs/glossary/user) to continue using it. Users and moderators—who are often managing communities for free—have gone on a site-wide protest against changes introduced, among other reasons.
 
-As reports of an exodus from Reddit unfolds [Lemmy](https://join-lemmy.org/), has been gaining popularity. In fact at the time of writing this, Lemmy has grown to become the [fifth most popular software](https://atomicpoet.org/notice/AWen4ZNYsSXqWZE9q4) on the [Fediverse](/docs/glossary/fediverse).
+As reports of an exodus from Reddit unfolds, software like [Lemmy](https://join-lemmy.org/#target=_blank) and [/kbin](https://kbin.pub/en#target=_blank), have been gaining popularity. In fact at the time of writing this, Lemmy has grown to become the [fifth most popular software](https://atomicpoet.org/notice/AWen4ZNYsSXqWZE9q4) on the [Fediverse](/docs/glossary/fediverse).
 
 import lemmyMostPopularImage from "./lemmy-most-popular.png";
 
@@ -19,32 +19,38 @@ import lemmyMostPopularImage from "./lemmy-most-popular.png";
 	/>
 </a>
 
-## What is Lemmy?
+## What are Lemmy and /kbin?
 
 According to the official Lemmy website:
 
 > Lemmy is a self-hosted social link aggregation and discussion [platform](/docs/glossary/platform). It is completely free and open, and not controlled by any company. This means that there is no advertising, tracking, or secret algorithms. Content is organized into communities, so it is easy to subscribe to topics that you are interested in, and ignore others. Voting is used to bring the most interesting items to the top.
 
-In other words, Lemmy brings Reddit-like features to the Fediverse.
+And, according to the official /kbin website:
 
-With support for [WebFinger](https://webfinger.net/) and [ActivityPub](https://www.w3.org/TR/activitypub/), users of [Mastodon](https://joinmastodon.org/), [Calckey](https://calckey.org/), [Friendica](https://friendi.ca/), or any other ActivityPub and WebFinger software can easily follow Lemmy users.
+> /kbin is an open source reddit-like content aggregator and microblogging platform for the fediverse.
+>
+> Create and moderate communities, meet people with similar interests, and develop your passions.
 
-However, a feature that Lemmy has, that Mastodon does not, are <a href="/docs/glossary/group" target="_blank">"groups"</a>.
+In other words, both Lemmy and /kbin bring Reddit-like features to the Fediverse.
+
+With support for [WebFinger](https://webfinger.net/) and [ActivityPub](https://www.w3.org/TR/activitypub/), users of [Mastodon](https://joinmastodon.org/), [Calckey](https://calckey.org/), [Friendica](https://friendi.ca/), or any other ActivityPub and WebFinger software can easily follow Lemmy and /kbin users.
+
+However, a feature that Lemmy and /kbin have, that Mastodon does not, are <a href="/docs/glossary/group" target="_blank">"groups"</a>.
 
 ## Joining groups from platforms that don't support groups
 
-So you haven't joined Lemmy yet, and hesitant to join it, but would still want to join a group on the Fediverse?
+So you haven't joined neither /kbin or Lemmy yet, and hesitant to join either, but would still want to join a group on the Fediverse?
 
-There's good news. A group in Lemmy is just another ActivityPub actor.
+There's good news! A group in Lemmy and /kbin is just another ActivityPub actor.
 
 Mastodon, Calckey, etc. are all implementations of ActivityPub. ActivityPub has the concept of an actor. Both users and groups are actors, and because actors can follow other actors, this means a user can follow a group!
 
 Following a group has a very similar procedure to <a href="/docs/getting-started/following-people" target="_blank">following a user</a>.
 
-When visiting a Lemmy Group page, copy the adress from the address bar, and paste it into the search bar of your Fediverse software. You should see the group show up as an entity that you can follow.
+When visiting a /kbin or Lemmy Group page, copy the adress from the address bar, and paste it into the search bar of your Fediverse software. You should see the group show up as an entity that you can follow.
 
 Congratulations, you have now joined a group!
 
-Once joined, you should see posts being <a href="/docs/glossary/repost" target="_blank">reposted</a> (a.k.a. <a href="/docs/glossary/boost" target="_blank">boosted</a>) by the group that you "<a href="/docs/glossary/follow" target="_blank">followed</a>" onto your timeline.
+Once joined, you should see posts being [reposted](/docs/glossary/reposted) (a.k.a. [boosted](/docs/glossary/boost)) by the group that you "<a href="/docs/glossary/follow" target="_blank">followed</a>" onto your timeline.
 
 To post into the group, your post should tag[^7] the group's <a href="/docs/specifications/account-address" target="_blank">account address</a>.
