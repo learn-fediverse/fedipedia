@@ -1,5 +1,5 @@
 # Tag
 
-## Verb
+A tag is a label that has been added to a [post](/docs/glossary/post). When a tag is added to a post, it is said that the creator of the post has "tagged" the post.
 
-The act of tagging is to add labels to a [post](/docs/glossary/post) [metadata](/docs/glossary/metadata)
+A major benefit of tagging a post is to make the post easier to [discover](/docs/glossary/discoverable).

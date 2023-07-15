@@ -1,6 +1,6 @@
 # Site
 
-A site is any [service](/docs/glossary/service) that is accessible via a [web browser](/docs/software/misc/web-browser)
+A site is any [service](/docs/glossary/service) that is accessible via a [web browser](/docs/software/misc/web-browser).
 
 In the context of the [Fediverse](/docs/glossary/fediverse), a site is almost synonymous with "[server](/docs/glossary/server)", with one caveat being that a site represents *intent*.
 
