@@ -1,6 +1,6 @@
 # Federation
 
-Federation refers to a [network](/docs/glossary/network) of independent [entities](/docs/glossary/entity) that co-operate to provide a common [service](/docs/glossary/service). In a federated [system](/docs/glossary/system), each entity maintains control over its own operations and resources, but also agrees to abide by certain common protocols or standards to enable collaboration and interoperability.
+Federation refers to a [network](/docs/glossary/network) of independent [entities](/docs/glossary/entity) that co-operate to provide a common [service](/docs/tech/glossary/service). In a federated [system](/docs/glossary/system), each entity maintains control over its own operations and resources, but also agrees to abide by certain common protocols or standards to enable collaboration and interoperability.
 
 An example of federation is [email](/docs/glossary/email).
 

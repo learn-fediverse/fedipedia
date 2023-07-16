@@ -1,3 +1,3 @@
 # Audience
 
-An audience refers to a set of people who receive or consume a particular message, performance, or [communication](/docs/glossary/communciation). The concept of an audience extends to various forms of [media](/docs/glossary/media), including books, articles, websites, [social media](/docs/glossary/social-media) [platforms](/docs/glossary/platform), and advertisements, where people consume and [interact](/docs/glossary/interact) with the [content](/docs/glossary/content).
+An audience refers to a set of people who receive or consume a particular message, performance, or [communication](/docs/glossary/communication). The concept of an audience extends to various forms of [media](/docs/glossary/media), including books, articles, websites, [social media](/docs/glossary/social-media) [platforms](/docs/glossary/platform), and advertisements, where people consume and [interact](/docs/glossary/interaction) with the [content](/docs/glossary/content).

@@ -1,6 +1,6 @@
 # Centralization
 
-Centralization refers to the concentration or consolidation of [data](/docs/glossary/data), resources, control, or [services](/docs/glossary/service) within a single [system](/docs/glossary/system), [server](/docs/glossary/server), or [entity](/docs/glossary/entity). It involves the idea of having a central authority or central point of control that manages and governs various aspects of a technological infrastructure.
+Centralization refers to the concentration or consolidation of [data](/docs/glossary/data), resources, control, or [services](/docs/tech/glossary/service) within a single [system](/docs/glossary/system), [server](/docs/glossary/server), or [entity](/docs/glossary/entity). It involves the idea of having a central authority or central point of control that manages and governs various aspects of a technological infrastructure.
 
 Various central authorities exist on the Internet. One specific example is the [Domain Name System (DNS)](https://en.wikipedia.org/wiki/Domain_Name_System#target=_blank), where there is only a handful of root name servers responsible for providing the [authoritative name servers](https://en.wikipedia.org/wiki/Name_server#Authoritative_name_server) for top-level domains.
 
