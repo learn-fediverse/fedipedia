@@ -1,0 +1,3 @@
+# Email
+
+Email, short for electronic mail, is a digital [communication](/docs/glossary/communication) method that allows [entities](/docs/glossary/entity) to send and receive messages over the [Internet](/docs/glossary/internet). It is one of the most widely used and convenient means of electronic communication. With email, [entities](/docs/glossary/entity) can send text-based messages, along with attachments such as documents, images, or videos, to one or more recipients.

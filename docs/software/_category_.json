@@ -1,7 +1,6 @@
 {
 	"label": "Software",
 	"link": {
-		"type": "doc",
-		"id": "software"
+		"type": "generated-index"
 	}
 }

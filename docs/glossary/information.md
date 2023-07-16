@@ -1,0 +1,3 @@
+# Information
+
+Information is a concept that refers to [data](/docs/glossary/data) or knowledge that is [communicated](/docs/glossary/communication) or received. It can be defined as organized and meaningful data that provides insight, understanding, or instruction. Information is typically conveyed through various forms such as text, images, sounds, or symbols, and it is used to convey facts, ideas, instructions, or messages.

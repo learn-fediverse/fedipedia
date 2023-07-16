@@ -1,0 +1,3 @@
+# System
+
+A system refers to a collection of interrelated components or elements that work together to achieve a common purpose or function. It can be thought of as an organized and structured arrangement of parts, processes, or [entities](/docs/glossary/entity) that interact and collaborate to perform specific tasks or produce desired outcomes. Systems can exist in various forms and sizes, ranging from simple and tangible systems like a mechanical clock or a computer to complex and abstract systems such as ecosystems, social systems, or economic systems.

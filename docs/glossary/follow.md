@@ -1,8 +1,8 @@
 # Follow
 
-When an [account](/docs/glossary/account) owned by Alice follows an account owned by Bob, the account owned by Alice will automatically receive [content](/docs/glossary/content) from Bob, whenever Bob posts content on their own account.
+When an [account](/docs/glossary/account) owned by (for example) Alice follows an account owned by Bob, the account owned by Alice will automatically receive [content](/docs/glossary/content) from Bob, whenever Bob [posts](/docs/glossary/post) content on their own account.
 
-On the [Fediverse](/docs/glossary/fediverse), if you know the [address](/docs/specification/account-address) of a particular account, then you can request to follow them, from the server that you are logged in from, even if the account you are attempting to follow is on a different server.
+On the [Fediverse](/docs/glossary/fediverse), if you know the [address](/docs/specifications/account-address) of a particular account, you can request to follow the account on the address, from the [server](/docs/glossary/server) that you are signed up in, even if the account you are attempting to follow is on a different server.
 
 :::tip New to the Fediverse?
 

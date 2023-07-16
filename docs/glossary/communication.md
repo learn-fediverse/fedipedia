@@ -1,0 +1,3 @@
+# Communication
+
+Communication is the process of exchanging [information](/docs/glossary/information), ideas, thoughts, or emotions between individuals or [groups](/docs/glossary/group). It is a fundamental aspect of human [interaction](/docs/glossary/interaction) and plays a crucial role in various aspects of life, including personal relationships, business transactions, education, and social interactions.

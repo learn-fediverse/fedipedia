@@ -1,0 +1,3 @@
+# Internet
+
+The Internet is a global network of interconnected computer networks that allows devices to exchange information and communicate worldwide. It operates through a set of protocols known as TCP/IP and utilizes IP addresses to identify and connect devices. The Internet encompasses [services](/docs/tech/glossary/service) like the World Wide Web, email, instant messaging, social media, e-commerce, online entertainment, and more. It has transformed communication, information access, commerce, and various aspects of modern life, playing a central role in the digital age.

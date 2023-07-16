@@ -1,0 +1,8 @@
+{
+	"label": "Web Browser",
+	"position": 1,
+	"link": {
+		"type": "doc",
+		"id": "web-browser"
+	}
+}
