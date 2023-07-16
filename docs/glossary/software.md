@@ -1,6 +1,6 @@
 # Software
 
-The word software refers to a set of operating intstructions for a computer [^1], or many of these sets of instructions running either sequentially, or in parallel, to instruct the computer to perform tasks that are expected to operat.
+The word "software" refers to a set of operating intstructions for a computer [^1], or many of these sets of instructions running either sequentially, or in parallel, to instruct the computer to perform tasks that are expected to operat.
 
 As far as the [Fediverse](/docs/glossary/fediverse) is concerned, a software is the [implementation](/docs/glossary/implementation) of certain Fediverse [protocols](/docs/glossary/protocol).
 

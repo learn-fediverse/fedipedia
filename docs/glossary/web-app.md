@@ -1,3 +1,0 @@
-# Web App
-
-A web app is a software that is typically accessed via a [web browser](/docs/software/misc/web-browser).
