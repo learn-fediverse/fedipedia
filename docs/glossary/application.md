@@ -1,3 +1,3 @@
 # Application
 
-An application is a collection of programs and [software](/docs/glossary/software)—[client](/docs/glossary/client), [server](/docs/glossary/server), etc.—that serves a purpose on electronic devices—such as laptops/desktops, smartphones, tables, and other digital [platforms](/docs/glossary/platform)—
+An application, often referred to as an "app," is [software](/docs/glossary/software) designed to perform specific tasks or provide specific functionalities on various devices, such as computers, smartphones, tablets, or other electronic devices. Applications are created to serve different purposes, ranging from productivity tools, entertainment, communication, gaming, education, [social networking](/docs/glossary/social-network), and much more.

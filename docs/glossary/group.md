@@ -1,4 +1,4 @@
-# Group (Social Media)
+# Group
 
 A group is a collection of individuals who come together for a common purpose, shared interest, or specific objective. It involves multiple people who [interact](/docs/glossary/interaction) with one another, [communicate](/docs/glossary/communication), and collaborate to achieve a common goal or fulfill a particular need. Groups can vary in size, ranging from a small number of individuals to a large gathering.
 

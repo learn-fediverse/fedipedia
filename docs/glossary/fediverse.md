@@ -1,6 +1,6 @@
 # Fediverse
 
-The Fediverse is a collection of [social networks](/docs/glossary/social-network#target=_blank) that connect to each other.
+The Fediverse is a collection of [social networks](/docs/glossary/social-network) that connect to each other.
 
 [Accounts](/docs/glossary/account) from one smaller social network (specifically in a [server](/docs/glossary/server)) is capable of interacting with an account from another totally distinct social network.
 
