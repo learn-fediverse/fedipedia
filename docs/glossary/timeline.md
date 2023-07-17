@@ -4,4 +4,4 @@ The "timeline" on a [social media](/docs/glossary/social-media) [software](/docs
 
 <!-- TODO: include images of what the timeline looks like -->
 
-[^1]: By "you", I'm referring to entity that is currently logged in to its account, and viewing the timeline.
+[^1]: By "you", we're referring to entity that is currently logged in to its account, and viewing the timeline.
