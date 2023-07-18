@@ -1,3 +1,3 @@
 # Culture
 
-Culture is a broad term that encompasses the shared characteristics of a particular group of people, typically within a larger society. It includes a wide range of elements such as language, religion, norms, customs, traditions, arts, and social institutions. Culture represents the collective identity and way of life of a society as a whole. For example, American culture, Japanese culture, or corporate culture.
+Culture is a broad term that encompasses the shared characteristics of a particular [group](/docs/glossary/group) of people, typically within a larger society. It includes a wide range of elements such as language, religion, norms, customs, traditions, arts, and social institutions. Culture represents the collective identity and way of life of a society as a whole. For example, American culture, Japanese culture, or corporate culture.
