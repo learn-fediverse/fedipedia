@@ -1,6 +1,6 @@
 # Centralization
 
-Centralization refers to the concentration or consolidation of [data](/docs/glossary/data), resources, control, or [services](/docs/glossary/service) within a single [system](/docs/glossary/system), [server](/docs/glossary/server), or [entity](/docs/glossary/entity). It involves the idea of having a central authority or central point of control that manages and governs various aspects of a technological infrastructure.
+Centralization refers to the concentration or consolidation of [data](/docs/glossary/data), resources, control, or [services](/docs/glossary/service) within a single [system](/docs/glossary/system), [server](/docs/glossary/server), or [entity](/docs/glossary/entity). It involves the idea of having a central authority or central point of control that manages or governs a system.
 
 Various central authorities exist on the [Internet](/docs/glossary/internet). One specific example is the [Domain Name System (DNS)](https://en.wikipedia.org/wiki/Domain_Name_System#target=_blank), where there is only a handful of root name servers responsible for providing the [authoritative name servers](https://en.wikipedia.org/wiki/Name_server#Authoritative_name_server) for top-level domains.
 
@@ -10,6 +10,6 @@ Another example of centralization are the central [BitTorrent trackers](https://
 
 More ostesible examples of centralized services are [Instagram](https://en.wikipedia.org/wiki/Instagram#target=_blank) and [Twitter](https://en.wikipedia.org/wiki/Twitter#target=_blank). Neither Instagram nor Twitter can interact with each other, and no user can they directly communicate, without an individual or organization being forced to create an account on both [platforms](/docs/glossary/platform).
 
-The idea of "centralization" runs in stark contrast to "[decentralization](/docs/glossary/decentralization)", where rather than one entity being in control of the entire service, it is instead distributed between different independent units that each collaborate and interoprate to achieve a common goal.
+The idea of "centralization" runs in stark contrast to "[decentralization](/docs/glossary/decentralization)", where rather than one entity being in control of the entire service, it is instead distributed between different independent units that each collaborate and interoprate to achieve a common goal, without the need for an active central authority.
 
 In certain Internet subcultures, the word "centralization" is sometimes used as a pejorative, as a pushback on certain centralized service providers that some people fear that these service actors may not act in their best interests.
