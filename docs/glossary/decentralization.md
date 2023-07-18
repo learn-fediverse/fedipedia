@@ -1,6 +1,6 @@
 # Decentralization
 
-Decentralization is an umbrella term for a class of [network](/docs/glossary/network) structures that have each [node](/docs/glossary/node) operate indepdendly, yet—in many instances—manage to achieve a common goal.
+Decentralization is an umbrella term for a class of [network](/docs/glossary/network) structures that have each [node](/docs/glossary/node) operate independently, yet—in many instances—manage to achieve a common goal.
 
 Decentralization lies in stark contrast to [centralization](/docs/glossary/centralization), where each node is governed by a central authority to ensure that each node is aligned in accordance to the standards as maintained by the central authority.
 
