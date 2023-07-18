@@ -1,6 +1,6 @@
 # Graph
 
-A graph is an abstract structure containing objects (typically called "nodes"), and each object can have one or many [connections](/docs/glossary/connection) (typically called "[edges](/docs/glossary/edge-graph-theory)") to other nodes.
+A graph is an abstract structure containing objects (typically called "[nodes](/docs/glossary/node)"), and each object can have one or many [connections](/docs/glossary/connection) (typically called "[edges](/docs/glossary/edge-graph-theory)") to other nodes.
 
 These connections could either be one-way, or two-way.
 

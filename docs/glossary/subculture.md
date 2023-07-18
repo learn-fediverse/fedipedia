@@ -1,0 +1,3 @@
+# Subculture
+
+A subculture is a smaller, distinct [group](/docs/glossary/group) within a larger [culture](/docs/glossary/culture) that shares its own unique set of beliefs, values, practices, and symbols. Subcultures emerge when a subset of individuals within a society develop distinct interests, styles, or ideologies that differentiate them from the dominant culture. Subcultures often form around common interests, hobbies, occupations, or youth groups. Examples of subcultures include goths, hippies, skateboarders, bikers, gamers, or specific music subgenres like punk or hip-hop.
