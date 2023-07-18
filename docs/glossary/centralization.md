@@ -8,4 +8,8 @@ Another example of centralization is the [certificate authorities](https://suppo
 
 Another example of centralization are the central [BitTorrent trackers](https://en.wikipedia.org/wiki/BitTorrent_tracker) that are intended to help a computer locate other peers, so that the computer can then become a peer in the peer-to-peer [network](/docs/glossary/network).
 
-More ostesible examples of centralized services are [Instagram](https://en.wikipedia.org/wiki/Instagram#target=_blank) and [Twitter](https://en.wikipedia.org/wiki/Twitter#target=_blank). Neither Instagram nor Twitter can interact with each other, and no user can directly communicate, without an individual or organization being forced to create an account on both [platforms](/docs/glossary/platform).
+More ostesible examples of centralized services are [Instagram](https://en.wikipedia.org/wiki/Instagram#target=_blank) and [Twitter](https://en.wikipedia.org/wiki/Twitter#target=_blank). Neither Instagram nor Twitter can interact with each other, and no user can they directly communicate, without an individual or organization being forced to create an account on both [platforms](/docs/glossary/platform).
+
+The idea of "centralization" runs in stark contrast to "[decentralization](/docs/glossary/decentralization)", where rather than one entity being in control of the entire service, it is instead distributed between different independent units that each collaborate and interoprate to achieve a common goal.
+
+In certain Internet subcultures, the word "centralization" is sometimes used as a pejorative, as a pushback on certain centralized service providers that some people fear that these service actors may not act in their best interests.
