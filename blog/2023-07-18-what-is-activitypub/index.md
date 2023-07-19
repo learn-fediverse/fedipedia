@@ -5,6 +5,8 @@ authors: [salrahman]
 tags: [activitypub, tech]
 ---
 
+![](ac-example.png)
+
 When using [Mastodon](https://joinmastodon.org/), you are under no requirement to join the suggested [flagship](/docs/glossary/flagship) `mastodon.social` [server](/docs/glossary/server). You are free to join any other server that *[host](/docs/glossary/host)* an [instance](/docs/glossary/instance) of the Mastodon [software](/docs/glossary/software), and yet, still manage to [interact](/docs/glossary/interaction) with [users](/docs/glossary/user) who did sign up for `mastodon.social`.
 
 This is because Mastodon [implements](/docs/glossary/implementation)—at least partially—the [ActivityPub](https://www.w3.org/TR/activitypub/#target=_blank) and [WebFinger](https://webfinger.net/#target=_blank) [protocols](/docs/glossary/protocol).
