@@ -7,7 +7,7 @@ tags: [activitypub, tech]
 
 When using [Mastodon](https://joinmastodon.org/), you are under no requirement to join the suggested [flagship](/docs/glossary/flagship) `mastodon.social` [server](/docs/glossary/server). You are free to join any other server that *[host](/docs/glossary/host)* an [instance](/docs/glossary/instance) of the Mastodon [software](/docs/glossary/software), and yet, still manage to [interact](/docs/glossary/interaction) with [users](/docs/glossary/user) who did sign up for `mastodon.social`.
 
-This is because Mastodon [implements](/docs/glossary/implementation)—at least partially—the [ActivityPub](https://www.w3.org/TR/activitypub/#target=_blank) and [WebFinger](https://webfinger.net/#target=_blank) protocol.
+This is because Mastodon [implements](/docs/glossary/implementation)—at least partially—the [ActivityPub](https://www.w3.org/TR/activitypub/#target=_blank) and [WebFinger](https://webfinger.net/#target=_blank) [protocols](/docs/glossary/protocol).
 
 Further, if you wanted to interact with someone on a Mastodon server, you don't even have to exclusively use Mastodon. You can sign up for any server that either host Calckey, Frendica, Pleroma, Akkoma, Misskey, /kbin, Lemmy, or any other [social media](/docs/glossary/social-media) and [social networking](/docs/glossary/social-network) [platforms](/docs/glossary/platform) that use [ActivityPub](https://www.w3.org/TR/activitypub/#target=_blank) and [WebFinger](https://webfinger.net/#target=_blank).
 
@@ -17,7 +17,7 @@ This is the power of [federation](/docs/glossary/federation).
 
 This runs contrary to what has traditionally been done; previously, when you signed up for a social media [service](/docs/glossary/service), and you wanted to get in touch with a friend, that friend needs to have had also signed up for the service, otherwise the two of you will need to find an alternative arrangement.
 
-It's not anything unique. This idea has been around since at least as far back as the invention of [email](/docs/glossary/email).
+This is not anything unique. This idea has been around since at least as far back as the invention of [email](/docs/glossary/email).
 
 In the case of ActivityPub—along with WebFinger—both you and that friend can still [communicate](/docs/glossary/communication), as long as both services use the same protocols.
 
@@ -26,6 +26,7 @@ In the case of ActivityPub—along with WebFinger—both you and that friend can
 ActivityPub has explicitly defined support for the following actions that are often expected on many social media platforms:
 
 - Follow
+- Block
 - React to an object with a "like"
 - Create a [post](/docs/glossary/post)
 - Delete a post
@@ -39,19 +40,21 @@ ActivityPub has explicitly defined support for the following actions that are of
 
 That said, any extensions implemented in a [Fediverse](/docs/glossary/fediverse) software needs to be supported in other such software, in order for that extension to be fully comprehensible.
 
-Fortunately, software that don't offer support for such extensions can fallback to showing merely what it does understand so-far, as well as post a link to the original [content](/docs/glossary/content).
+Fortunately, software that don't offer support for such extensions can fallback to showing merely what it does understand so far, as well as include a link to the original [content](/docs/glossary/content).
 
 ## What else is ActivityPub useful for?
 
-ActivityPub is based very heavily on the concept of an [actor](/docs/glossary/actor), and employs a pattern called the "actor model". In the actor model as used by ActivityPub, an actor can send messages to other actors.
+ActivityPub is based very heavily on the concept of an [actor](/docs/glossary/actor), and employs a pattern called the "actor model". In the actor model—as used by ActivityPub—an actor can send messages to other actors.
 
-Actors are often associated with an [account](/docs/glossary/account), but don't always need to be. An actor can simply be a [bot](/docs/glossary/bot) that merely [reposts](/docs/glossary/repost) content not explicitly on that platform the bot is posting on. This is especially useful for services that expose an ActivityPub endpoint.
+Actors are often associated with an [account](/docs/glossary/account), but don't always need to be. An actor can be a [bot](/docs/glossary/bot) that merely [reposts](/docs/glossary/repost) content not explicitly on that platform the bot is posting on. This is especially useful for services that expose an ActivityPub endpoint.
 
 In other words, an ActivityPub actor doesn't need to be a user.
 
 A good example of this is an ActivityPub [group](/docs/glossary/group) actor.
 
-With a group actor, you can implement the concept of a group, where people can post to it by sending a note to a group. Once a note has been posted, the group will share that note to anyone who follows that group.
+With a group actor, you can implement the concept of a group, where people can post to it by sending a note to a group. Once a note has been posted, the group will boost that note to anyone who follows that group.
+
+Both /kbin and Lemmy heavily use the ActivityPub group actor.
 
 ## In Summary
 
