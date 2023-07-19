@@ -1,0 +1,3 @@
+# Bot
+
+A bot, short for "robot" or "robotic," is an autonomous computer program or [software](/docs/glossary/software) [application](/docs/glossary/application) that performs automated tasks. Bots are designed to perform specific functions without direct human intervention, typically following pre-defined rules or using artificial intelligence algorithms to execute tasks. They can perform a wide range of activities, from simple repetitive tasks to more complex actions.
