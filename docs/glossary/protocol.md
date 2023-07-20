@@ -1,3 +1,3 @@
 # Protocol
 
-A protocol is a set of rules that [Fediverse](/docs/glossary/fediverse) [software](/docs/glossary/software) must follow in order to be able to communicate properly with other [instances](/docs/glossary/instance) of Fediverse software.
+A protocol is a set of rules and guidelines that define how different [entities](/docs/glossary/entity) or [systems](/docs/glossary/system) should [interact](/docs/glossary/interaction) with each other. It establishes a common language and a standard set of procedures to ensure effective [communication](/docs/glossary/communication) and cooperation.
