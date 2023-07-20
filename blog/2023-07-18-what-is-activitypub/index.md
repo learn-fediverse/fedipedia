@@ -7,11 +7,9 @@ tags: [activitypub, tech]
 
 ![](ac-example.png)
 
-When using [Mastodon](https://joinmastodon.org/), you are under no requirement to join the suggested [flagship](/docs/glossary/flagship) `mastodon.social` [server](/docs/glossary/server). You are free to join any other server that *[host](/docs/glossary/host)* an [instance](/docs/glossary/instance) of the Mastodon [software](/docs/glossary/software), and yet, still manage to [interact](/docs/glossary/interaction) with [users](/docs/glossary/user) who did sign up for `mastodon.social`.
+There's talks of [Threads joining the Fediverse](https://creators.instagram.com/blog/introducing-threads). That is, a Threads user can [follow](/docs/glossary/follow) a [Mastodon](https://joinmastodon.org/) user, and vice versa. Further, Mastodon is just not a single [service](/docs/glossary/service); it's a collection of different service all using the Mastodon [software](/docs/glossary/software), but each [instance](/docs/glossary/instance) can still communictae with each other.
 
-This is because Mastodon [implements](/docs/glossary/implementation)—at least partially—the [ActivityPub](https://www.w3.org/TR/activitypub/#target=_blank) and [WebFinger](https://webfinger.net/#target=_blank) [protocols](/docs/glossary/protocol).
-
-Further, if you wanted to interact with someone on a Mastodon server, you don't even have to exclusively use Mastodon. You can sign up for any server that either host Calckey, Frendica, Pleroma, Akkoma, Misskey, /kbin, Lemmy, or any other [social media](/docs/glossary/social-media) and [social networking](/docs/glossary/social-network) [platforms](/docs/glossary/platform) that use [ActivityPub](https://www.w3.org/TR/activitypub/#target=_blank) and [WebFinger](https://webfinger.net/#target=_blank).
+This is all possible because both Mastodon and Threads [implement](/docs/glossary/implementation)—at least partially—the [ActivityPub](https://www.w3.org/TR/activitypub/#target=_blank) and [WebFinger](https://webfinger.net/#target=_blank) [protocols](/docs/glossary/protocol).
 
 With ActivityPub and WebFinger, as long as you know the [account address](/docs/specifications/account-address) of a particular [user](/docs/glossary/user), then you can interact with that user, even if they are not on the same server as you are on.
 
