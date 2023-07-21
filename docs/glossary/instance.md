@@ -7,3 +7,9 @@ The Fediverse is comprised of [accounts](/docs/glossary/account), and software o
 Anyone could write Fediverse software, but that is rather highly time consuming.
 
 Instead, people opt to download existing software, and create a running instance of it on some server.
+
+Examples of Fediverse software:
+
+- [Mastodon](https://joinmastodon.org/)
+- [Akkoma](https://akkoma.social/)
+- [Firefish](https://joinfirefish.org/)
