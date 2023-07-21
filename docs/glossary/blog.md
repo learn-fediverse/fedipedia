@@ -1,0 +1,3 @@
+# Blog
+
+A blog is an online platform (often a [website](/docs/glossary/website)) where individuals or [groups](/docs/glossary/group) regularly publish written content in the form of [posts](/docs/glossary/post) or [articles](docs/glossary/article). The term "blog" is a shortened form of "weblog." Blogs typically feature entries displayed in reverse chronological order, meaning the newest posts appear at the top of the page while older ones move down.

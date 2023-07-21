@@ -1,0 +1,9 @@
+# Hypertext
+
+Hypertext is a technology that enables the organization and presentation of [information](/docs/glossary/information) in a non-linear and [interconnected](/docs/glossary/interconnection) way. It allows users to access and [interact](/docs/glossary/interaction) with text, images, videos, and other multimedia elements by clicking on hyperlinks embedded within the content. These hyperlinks act as references or pointers to other pieces of information, either within the same document or on different documents, websites, or web pages.
+
+The concept of hypertext was first envisioned by Vannevar Bush in the 1940s in his article "As We May Think." However, it was not until the 1960s and 1970s that the development of hypertext systems began in earnest. One of the earliest and most influential hypertext systems was "Xanadu," proposed by Ted Nelson in the 1960s. The term "hypertext" was later coined by Ted Nelson in 1965.
+
+Tim Berners-Lee, a British computer scientist, is credited with creating the World Wide Web, which popularized and revolutionized the use of hypertext. He developed the first web browser and web server, facilitating the creation of HTML (Hypertext Markup Language) and HTTP (Hypertext Transfer Protocol). These technologies allowed users to navigate the internet by following hyperlinks, fundamentally changing the way people access and share information.
+
+Hypertext has since become an essential part of the internet, providing the backbone for the vast majority of websites and web applications. It allows for easy navigation, quick access to related information, and a flexible structure that adapts to users' needs and preferences. Hypertext is not limited to the World Wide Web; it can also be used in standalone electronic documents, educational materials, digital books, and various interactive systems.

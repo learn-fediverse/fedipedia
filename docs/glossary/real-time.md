@@ -1,0 +1,3 @@
+# Real-time
+
+In computing and technology, "real-time" refers to a [system](/docs/glossary/system) or process that responds and operates immediately or with very minimal delay. It means that the system processes and provides output as soon as the input is received, often within milliseconds or microseconds, depending on the context. Real-time systems are designed to handle and process [data](/docs/glossary/data) in a timely manner, typically fast enough to be imperceptible to users or to meet specific timing requirements.

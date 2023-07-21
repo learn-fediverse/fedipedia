@@ -1,0 +1,9 @@
+# The World Wide Web
+
+The World Wide Web (WWW or the Web) is a [system](/docs/glossary/system) of [interconnected](/docs/glossary/interconnection) hypertext documents and resources that are accessed over the Internet. It was created by Sir Tim Berners-Lee in 1989 while working at CERN (the European Organization for Nuclear Research). The World Wide Web is one of the most significant developments in the history of the Internet and has revolutionized how information is accessed and shared.
+
+The Web operates on the basis of hypertext, a method of organizing and linking information using hyperlinks. Hyperlinks, commonly referred to as links, are clickable elements within a web page or document that lead users to other related web pages or resources when clicked. These links allow users to navigate seamlessly from one piece of content to another, enabling a vast network of interconnected information.
+
+To access the World Wide Web, users need a web browser—a software application that interprets and displays web pages, allowing users to view text, images, videos, and other multimedia content. Popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, and Apple Safari, among others.
+
+The Web has become a critical tool for communication, information dissemination, collaboration, entertainment, and e-commerce. It hosts a vast array of websites, ranging from personal blogs and informational sites to social media platforms, online marketplaces, and academic resources. The Web continues to evolve, and new technologies and standards are regularly introduced to improve its functionality and security.
