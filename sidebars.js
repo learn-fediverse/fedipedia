@@ -18,6 +18,7 @@ const sidebars = {
 		{
 			type: "doc",
 			label: "Introduction",
+			id: "getting-started/introduction",
 		},
 	],
 	learnSidebar: [
