@@ -6,11 +6,13 @@ Since Mastodon is a [software](/docs/glossary/software), and not a [service](/do
 
 That said, if you are specifically looking for a social networking platform that *uses* Mastodon, then you will first need to find a [server](/docs/glossary/server) to join.
 
-## Finding a server
+## Finding an Instance
 
-Short of being encouraged to join a specific server that is running a Mastodon [instance](/docs/glossary/instance), you will first need to find a server to join.
+Short of being recommended by a friend to join a specific running Mastodon [instance](/docs/glossary/instance), you will first need to find a server to join.
 
-Mastodon's website has a list of servers that are currently running, along with other information to describe what the server is, why it exists, and who is the intended [audience](/docs/glossary/audience).
+Fortunately for you, the main Mastodon website has a list of instances that are currently running, along with a blurb to perhaps describe what the instance is, why it exists, and who is the intended [audience](/docs/glossary/audience).
+
+Check out the list here.
 
 ## Joining your server
 
