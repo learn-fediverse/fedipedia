@@ -14,15 +14,17 @@ Other than being recommended by a friend to join a specific running Mastodon ins
 
 Do note that once you land on the page, you will have to scroll a bit until you are presented with a list of all instances that are running.
 
-Also, the Mastodon website uses the "term" server to describe an "instance".
+Also, the Mastodon website uses the "term" [server](/docs/glossary/server) to describe an "instance". Those two terms are often used interchangeably.
 
 ![The Mastodon's website's server list page. You have to scroll down to actually see the list](joinmastodon.png)
 
-Once you have scrolled down, you should see a list of instances (what Mat) that looks like this;
+Once you have scrolled down, you should see a list of instances that looks like this;
 
 ![The list of servers](serverslist.png)
 
-## Joining your server
+## Joining your preferred instance
+
+Once you've found the instance that you like, you like, you can click the big blue "create account" button, and you will be redirected to the instance's registration page.
 
 ### Logging out
 
