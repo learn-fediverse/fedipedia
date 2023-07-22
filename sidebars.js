@@ -35,7 +35,14 @@ const sidebars = {
 						type: "generated-index",
 					},
 					collapsed: true,
-					items: ["getting-started/joining-mastodon/index"],
+					items: [
+						{
+							id: "getting-started/joining-mastodon/index",
+							type: "doc",
+							label: "Main Web",
+						},
+						,
+					],
 				},
 			],
 		},
