@@ -44,6 +44,23 @@ const sidebars = {
 						,
 					],
 				},
+
+				{
+					type: "category",
+					label: "Firefish",
+					link: {
+						type: "generated-index",
+					},
+					collapsed: true,
+					items: [
+						{
+							id: "getting-started/joining-firefish/index",
+							type: "doc",
+							label: "Main Web",
+						},
+						,
+					],
+				},
 			],
 		},
 	],

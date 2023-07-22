@@ -1,26 +1,22 @@
-# How to Join Mastodon From the Web
+# How to Join Firefish From the Web
 
-Like [Twitter](https://en.wikipedia.org/wiki/Twitter) and [Threads](https://en.wikipedia.org/wiki/Threads_(social_network)), [Mastodon](https://joinmastodon.org/) is a [microblogging](/docs/glossary/microblogging) [platform](/docs/glossary/platform), allowing you to [post](/docs/glossary/post) short text [articles](/docs/glossary/article) that typically omit the need to include a title.
+[Firefish](https://joinfirefish.org) is a [microblogging](/docs/glossary/microblogging) [platform](/docs/glossary/platform) just like [Mastodon](https://joinmastodon.org). That is it allows you to [post](/docs/glossary/post) short text [articles](/docs/glossary/article) that typically omit the need to include a title
 
-Since Mastodon is a [software](/docs/glossary/software), and not a [service](/docs/glossary/service), the general idea is for you to join a [social network](/docs/glossary/social-network.md) that *uses* Mastodon as the software that will give you a social networking and microblogging experience.
+Since Firefish is a [software](/docs/glossary/software), and not a [service](/docs/glossary/service), the general idea is for you to join a [social network](/docs/glossary/social-network.md) that *uses* Mastodon as the software that will give you a social networking and microblogging experience.
 
-That said, if you are specifically looking for a social networking platform that *uses* Mastodon, then you will first need to find an [instance](/docs/glossary/instance) to join.
+That said, if you are specifically looking for a social networking platform that *uses* Firefish, then you will first need to find an [instance](/docs/glossary/instance) to join.
 
 ## Finding an Instance
 
-Other than being recommended by a friend to join a specific running Mastodon instance, the main Mastodon website has a list of instances that are currently running, along with a blurb to perhaps describe what the instance is, why it exists, and who is the intended [audience](/docs/glossary/audience).
+Other than being recommended by a friend to join a specific running Mastodon instance, the main Firefish's website has a list of instances that are currently running, along with a blurb to perhaps describe what the instance is, why it exists, and who is the intended [audience](/docs/glossary/audience).
 
-**Check out the list over at [joinmastodon.org/servers](https://joinmastodon.org/servers)**.
+**Check out the list over at [joinfirefish.org/join/](https://joinfirefish.org/join/)**.
 
 Do note that once you land on the page, you will have to scroll a bit until you are presented with a list of all instances that are running.
 
 Also, the Mastodon website uses the "term" [server](/docs/glossary/server) to describe an "instance". Those two terms are often used interchangeably.
 
-![The Mastodon's website's server list page. You have to scroll down to actually see the list](joinmastodon.png)
-
 Once you have scrolled down, you should see a list of instances that looks like this;
-
-![The list of servers](serverslist.png)
 
 Scroll to through, and look for the one that you like.
 
@@ -28,17 +24,20 @@ Scroll to through, and look for the one that you like.
 
 Once you've found the instance that you like, you like, you can click the big blue "create account" button, and you will be redirected to the instance's registration page.
 
-![](joining.png)
+:::caution
+
+Note, the following tutorial assumes that the user is the default Msatodon theme.
+
+:::
+
 
 Be sure to remember the [domain-name](/docs/glossary/domain-name) of the instance that you selected. This way you can log back in, if you have been logged out.
 
-![](registration.png)
 
 Feel free to read the rules, or just skip them all by scrolling to the bottom.
 
 Once to the bottom of the registration page, click "Accept"
 
-![](registration-click.png)
 
 Next you should be presented with four text input boxes.
 
