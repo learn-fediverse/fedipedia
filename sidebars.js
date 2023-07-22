@@ -20,6 +20,25 @@ const sidebars = {
 			label: "Introduction",
 			id: "getting-started/introduction",
 		},
+		{
+			type: "category",
+			label: "Joining",
+			link: {
+				type: "generated-index",
+			},
+			collapsed: true,
+			items: [
+				{
+					type: "category",
+					label: "Mastodon",
+					link: {
+						type: "generated-index",
+					},
+					collapsed: true,
+					items: ["getting-started/joining-mastodon/index"],
+				},
+			],
+		},
 	],
 	learnSidebar: [
 		{

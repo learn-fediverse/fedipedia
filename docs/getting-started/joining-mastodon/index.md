@@ -22,12 +22,32 @@ Once you have scrolled down, you should see a list of instances that looks like 
 
 ![The list of servers](serverslist.png)
 
+Scroll to through, and look for the one that you like.
+
 ## Joining your preferred instance
 
 Once you've found the instance that you like, you like, you can click the big blue "create account" button, and you will be redirected to the instance's registration page.
 
 ![](joining.png)
 
-### Logging out
+After clicking "Create account", you should be directed to your desired instance's Registration page.
+
+![](registration.png)
+
+Feel free to read the rules, or just skip them all by scrolling to the bottom.
+
+Once to the bottom of the registration page, click "Accept"
+
+![](registration-click.png)
+
+Next you should be presented with four text input boxes.
+
+1. Username: a unique string that will identify your account on the instance that you are on. But remember, people on other instances can also follow you. And they do so by identifying you not only by your username but by your [account address](/docs/specification/account-address). Think of it like an email address, but for the [Social Web](/docs/glossary/social-web)
 
 ### Logging back in
+
+Got logged out?
+
+Logging back in is easy.
+
+Just be sure to remembe
