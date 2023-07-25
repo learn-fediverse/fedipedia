@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 export function ServerSelector() {
-	const [server, setServer] = useState<null | unknown>(null);
+	const [servers, setServers] = useState<unknown[]>([]);
 
 	useEffect(() => {
 		fetch(
@@ -9,10 +9,10 @@ export function ServerSelector() {
 		).then(async (e) => {
 			const result = await e.json();
 			if (Array.isArray(result)) {
-				setServer(result[Math.floor(Math.random() * result.length)]);
+				setServers(result);
 			}
 		});
-	});
+	}, []);
 
 	return (
 		<>
@@ -22,10 +22,19 @@ export function ServerSelector() {
 				}}
 			>
 				<button
+					disabled={!servers}
 					onClick={() => {
-						window.open(url, "_blank").focus();
+						const server = servers[Math.floor(Math.random() * servers.length)];
+						if (!server) return;
+						window
+							.open(
+								`https://${
+									(server as { domain?: string } | undefined)?.domain
+								}/auth/sign_up`,
+								"_blank"
+							)
+							.focus();
 					}}
-					disabled
 					className="button button--secondary button--lg"
 				>
 					Join A Random Server
