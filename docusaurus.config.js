@@ -100,7 +100,7 @@ const config = {
 						items: [
 							{
 								label: "Learn",
-								to: "/docs/category/getting-started",
+								to: "/docs/getting-started/introduction",
 							},
 						],
 					},

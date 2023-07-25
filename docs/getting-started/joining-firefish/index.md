@@ -22,7 +22,7 @@ Scroll to through, and look for the one that you like.
 
 ## Joining your preferred instance
 
-Once you've found the instance that you like, you like, you can click the big blue "create account" button, and you will be redirected to the instance's registration page.
+Once you've found the instance that, you like, you can click the big blue "create account" button, and you will be redirected to the instance's registration page.
 
 :::caution
 
