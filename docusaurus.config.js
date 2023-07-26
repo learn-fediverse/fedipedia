@@ -75,6 +75,12 @@ const config = {
 				items: [
 					{
 						type: "docSidebar",
+						sidebarId: "gettingStartedSidebar",
+						position: "left",
+						label: "Getting Started",
+					},
+					{
+						type: "docSidebar",
 						sidebarId: "learnSidebar",
 						position: "left",
 						label: "Learn",
@@ -95,7 +101,7 @@ const config = {
 						items: [
 							{
 								label: "Learn",
-								to: "/docs/category/getting-started",
+								to: "/docs/getting-started/introduction",
 							},
 						],
 					},
