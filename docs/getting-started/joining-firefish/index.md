@@ -31,7 +31,7 @@ Note, the following tutorial assumes that the user is the default Msatodon theme
 :::
 
 
-Be sure to remember the [domain-name](/docs/glossary/domain-name) of the instance that you selected. This way you can log back in, if you have been logged out.
+Be sure to remember the [domain-name](/docs/tech/glossary/domain-name) of the instance that you selected. This way you can log back in, if you have been logged out.
 
 
 Feel free to read the rules, or just skip them all by scrolling to the bottom.
@@ -41,7 +41,7 @@ Once to the bottom of the registration page, click "Accept"
 
 Next you should be presented with four text input boxes.
 
-1. Username: a unique string that will identify your account on the instance that you are on. But remember, people on other instances can also follow you. And they do so by identifying you not only by your username but by your [account address](/docs/specification/account-address). Think of it like an email address, but for the [Fediverse](/docs/glossary/fediverse).
+1. Username: a unique string that will identify your account on the instance that you are on. But remember, people on other instances can also follow you. And they do so by identifying you not only by your username but by your [account address](/docs/specifications/account-address). Think of it like an email address, but for the [Fediverse](/docs/glossary/fediverse).
 2. Email address: the email address for which you want your account associated with. The email address is used for verifying your account, sending you updates regarding your accounts (which you can unsubscribe from), and important account recovery emails, in case you forgot your password
 3. Password: the password that you would use to log in
 4. Confirm password: the same password that you selected earlier. This form field exists to ensure that you actually know your passowrd; otherwise, things will get a little awkward

@@ -10,6 +10,6 @@ On some [social media](/docs/glossary/social-media) [platforms](/docs/glossary/p
 
 Do you want an account on the Fediverse?
 
-Then you'd definitely appreciate following the [Getting Started](/docs/category/getting-started) guide.
+Then you'd definitely appreciate following the [Getting Started](/docs/getting-started/introduction) guide.
 
 :::

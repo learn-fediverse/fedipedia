@@ -6,6 +6,6 @@ On the [Fediverse](/docs/glossary/fediverse), if you know the [address](/docs/sp
 
 :::tip New to the Fediverse?
 
-If you don't know much about how to work with the Fediverse, then you'd definitely appreciate following the [Getting Started](/docs/category/getting-started) guide, which will walk you through not only signing up for an account, but also how to follow people on the Fediverse.
+If you don't know much about how to work with the Fediverse, then you'd definitely appreciate following the [Getting Started](/docs/getting-started/introduction) guide, which will walk you through not only signing up for an account, but also how to follow people on the Fediverse.
 
 :::
