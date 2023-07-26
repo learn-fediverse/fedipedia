@@ -5,7 +5,7 @@ export function ServerSelector() {
 
 	useEffect(() => {
 		fetch(
-			"https://api.joinmastodon.org/servers?language=en&category=general&region=&ownership=&registrations="
+			"https://api.joinmastodon.org/servers?language=en&category=general&region=&ownership=&registrations=instant"
 		).then(async (e) => {
 			const result = await e.json();
 			if (Array.isArray(result)) {
