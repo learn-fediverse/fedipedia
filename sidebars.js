@@ -90,6 +90,11 @@ const sidebars = {
 							type: "doc",
 							label: "Official Web",
 						},
+						{
+							id: "getting-started/following-mastodon-web-outside/index",
+							type: "doc",
+							label: "From elsewhere on the Fediverse",
+						},
 					],
 				},
 			],
