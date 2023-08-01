@@ -30,6 +30,14 @@ There are several options:
 
 ### The Explore tab
 
+Go to the explore tab by clicking the "Explore" link on the sidebar.
+
+![](explore.png)
+
+You should then end up with a page that has the following navigation bar at the top:
+
+![](explore-tab.png)
+
 The explore tab has 3 additional tabs from which you can discover acccounts to follow:
 
 - Posts
@@ -39,6 +47,8 @@ The explore tab has 3 additional tabs from which you can discover acccounts to f
 It has a fourth tab, that that fourth one doesn't have any posts from people who you can follow, so we will ignore it, for now.
 
 #### Posts
+
+![](posts.png)
 
 The posts tab shows trending posts from anyone on the Fediverse, not just the server that you are on.
 
@@ -50,6 +60,8 @@ Once there, you should be able to click the follow button, and follow the accoun
 
 #### Hashtags
 
+![](hashtags.png)
+
 The hashtags tab shows you a list of trending hashtags across the Fediverse. That tab contains no post from anyone, but you can click on any of the hashtags that you want.
 
 Once you clicked on a hash tag, you should be directed to a page, that contains posts from people who post content that contains the hashtag that you clicked on.
@@ -58,9 +70,13 @@ Click on either the name, profile picture, or account address of the author of a
 
 #### People
 
+![](people.png)
+
 The people tab is quite simply a list of accounts that you can follow. Click the follow button.
 
 ### Live feeds
+
+![](live-feed.png)
 
 The Live feed has 3 tabs:
 
@@ -70,6 +86,8 @@ The Live feed has 3 tabs:
 
 #### This server
 
+![](this-server.png)
+
 The "This server" tab contains posts from people who currently reside on the server that you signed up for your Mastodon account.
 
 You should be able to click the profile picture, name, or account address of the author of a particular post, and be brought to their profile page.
@@ -78,6 +96,8 @@ From there, you should be able to follow the account that you desire to follow.
 
 #### Other servers
 
+![](other-servers.png)
+
 The "Other servers" tab contains posts from people who currently reside on other servers on the Fediverse, beyond just the one that you signed up for.
 
 You should be able to click the profile picture, name, or account address of the author of a particular post, and be brought to their profile page.
@@ -85,6 +105,8 @@ You should be able to click the profile picture, name, or account address of the
 From there, you should be able to follow the account that you desire to follow.
 
 #### All
+
+![](all-servers.png)
 
 The "All" tab contains posts from both the server that you are signed up from, and other servers on the Fediverse.
 

@@ -72,28 +72,53 @@ const sidebars = {
 		},
 		{
 			type: "category",
-			label: "How to Follow",
+			label: "Following",
 			link: {
 				type: "generated-index",
 			},
 			items: [
 				{
 					type: "category",
-					label: "Mastodon",
+					label: "How to follow",
 					link: {
 						type: "generated-index",
 					},
 					collapsed: true,
 					items: [
 						{
-							id: "getting-started/following-mastodon-web/index",
-							type: "doc",
-							label: "Official Web",
+							type: "category",
+							label: "Mastodon",
+							link: {
+								type: "generated-index",
+							},
+							collapsed: true,
+							items: [
+								{
+									id: "getting-started/following-mastodon-web/index",
+									type: "doc",
+									label: "Official Web",
+								},
+								{
+									id: "getting-started/following-mastodon-web-outside/index",
+									type: "doc",
+									label: "From elsewhere on the Fediverse",
+								},
+							],
 						},
+					],
+				},
+				{
+					type: "category",
+					label: "Whom to follow",
+					link: {
+						type: "generated-index",
+					},
+					collapsed: true,
+					items: [
 						{
-							id: "getting-started/following-mastodon-web-outside/index",
+							id: "getting-started/whom-to-follow/index",
 							type: "doc",
-							label: "From elsewhere on the Fediverse",
+							label: "Whom to follow",
 						},
 					],
 				},
